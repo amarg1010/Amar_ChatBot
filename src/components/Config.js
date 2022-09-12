@@ -121,7 +121,7 @@ import React from 'react';
             title: "Amar ChatBot",
             text: "Amar ChatBot is chatbot which stimulates conversation through text chats and gives information about me. ",
             stack:" React JS.",
-            Host:"#",
+            Host:"https://shimmering-muffin-93c2db.netlify.app/",
             id: 4,
           },
         ],
