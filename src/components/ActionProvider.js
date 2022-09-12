@@ -47,10 +47,6 @@ motivate()
   this.updateChatbotState(namstemsg)
 }
 
-song()
-{
-
-}
 
 sorry()
 {

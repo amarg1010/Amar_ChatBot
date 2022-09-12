@@ -9,7 +9,7 @@ import ContactList from './ContactList/ContactList';
 import React from 'react';
     const config = {
     
-    botName: "NiKBot",
+    botName: "AmarBot",
     
     initialMessages:
     [createChatBotMessage("Hi, I'm Amar. What do you want to know about me?", {widget: "learningOption"})],
